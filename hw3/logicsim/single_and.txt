@@ -1,0 +1,16 @@
+WIRES
+3
+0,input A
+1,input B
+2,output
+GATES
+1
+AND2,0,1,2
+INJECT
+4
+0,0,0
+0,1,1
+4,0,1
+6,1,0
+
+

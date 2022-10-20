@@ -1,0 +1,13 @@
+WIRES
+2
+0,input
+1,output
+GATES
+1
+NOT,0,1
+INJECT
+4
+2,0,0
+4,0,1
+6,0,0
+8,0,1
